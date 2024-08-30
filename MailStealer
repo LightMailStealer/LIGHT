@@ -1,4 +1,4 @@
-LogsWebhook = "https://discord.com/api/webhooks/1278794362565693490/2hT6T75uw7orOwBQWHKmPHqWLhA7t-4Va3UwnxaYhIm4HDtyBzRS4Roc3EFWBOqr73aO"
+LogsWebhook = ""
 
 min_rap = 500000 -- minimum rap of each item you want to get sent to you. 1 mil by default
 
